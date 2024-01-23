@@ -1,0 +1,14 @@
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\bin\Debug\net8.0\ProductTagsExample.exe
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\bin\Debug\net8.0\ProductTagsExample.deps.json
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\bin\Debug\net8.0\ProductTagsExample.runtimeconfig.json
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\bin\Debug\net8.0\ProductTagsExample.dll
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\bin\Debug\net8.0\ProductTagsExample.pdb
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\obj\Debug\net8.0\ProductTagsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\obj\Debug\net8.0\ProductTagsExample.AssemblyInfoInputs.cache
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\obj\Debug\net8.0\ProductTagsExample.AssemblyInfo.cs
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\obj\Debug\net8.0\ProductTagsExample.csproj.CoreCompileInputs.cache
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\obj\Debug\net8.0\ProductTagsExample.dll
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\obj\Debug\net8.0\refint\ProductTagsExample.dll
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\obj\Debug\net8.0\ProductTagsExample.pdb
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\obj\Debug\net8.0\ProductTagsExample.genruntimeconfig.cache
+C:\Users\vschn\RiderProjects\ProductTagsExample\ProductTagsExample\obj\Debug\net8.0\ref\ProductTagsExample.dll
